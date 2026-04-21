@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Albanian Neutral Theory"
 date: 2026-04-21
 excerpt: "A simple framework for understanding neutral in YOMI Hustle by oet247 and co"
 ---
