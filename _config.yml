@@ -1,0 +1,6 @@
+title: Right some of the times
+description: A blog about yomi hustle and some other things
+email: "oet247@gmail.com"
+theme: minima
+permalink: /:title/
+markdown: kramdown
