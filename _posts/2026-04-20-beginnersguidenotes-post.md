@@ -29,7 +29,7 @@ So. It reflects my own issues. Or maybe I'm making it reflect them. I fought wit
 
 The machine. The machine is the trauma its the inner intrinsic self that just needs whatever it wants it needs the validation. And Coda is trying to fight against it, like I tried to fight against myself. But its impossible, you need to live with it and you need other people to keep you going when it all backfires. Davie is not that person. The machine is both the part that hurts and the part that is creative. Neither choice is a good one. Killing it is bad, making it live and strugglying because of it is bad. That's the dichotomy of creation. You want people to see you but you dont want them to see YOU. And Davie's solution of giving him more people to watch him struggle is wrong. All he wants is just you to watch. Coda is the same as you. But with a slight nuance.
 
-As I'm writing these notes, I'm watching my friend play the game in voice chat. And I'm realizing this might ruin our relationship if he focuses enough on what the game is saying and what I've said to him. Ugh.
+As I'm writing these notes, I'm watching my friend play the game in voice chat.
 
 Why do I need to think about math. It feels the same. And this is a tragedy, with no solution. The best Davie Wreden came up with is screaming it out into the void himself. The only band aid the game has is prevention, thats it.
 
