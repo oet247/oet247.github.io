@@ -19,7 +19,7 @@ Heres a link to my [superdoc] (https://docs.google.com/document/d/1wscCT6eiMVhm0
       {{ post.title }}
     </a>
   </h2>
-  <img src="oet247.github.io/blob/main/post.image">
+  <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
   <p>{{ post.date | date: "%b %d, %Y" }}</p>
   <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
 
